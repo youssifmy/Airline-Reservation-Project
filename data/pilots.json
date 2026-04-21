@@ -1,0 +1,30 @@
+[
+    {
+        "pilotId": "PL001",
+        "name": "Captain Sarah Connor",
+        "licenseNumber": "ATP-001234",
+        "experienceYears": 15,
+        "status": "Available"
+    },
+    {
+        "pilotId": "PL002",
+        "name": "Captain James Kirk",
+        "licenseNumber": "ATP-002345",
+        "experienceYears": 12,
+        "status": "Available"
+    },
+    {
+        "pilotId": "PL003",
+        "name": "Captain Emily Stone",
+        "licenseNumber": "ATP-003456",
+        "experienceYears": 18,
+        "status": "Available"
+    },
+    {
+        "pilotId": "PL004",
+        "name": "Captain Michael Scott",
+        "licenseNumber": "ATP-004567",
+        "experienceYears": 10,
+        "status": "Available"
+    }
+]

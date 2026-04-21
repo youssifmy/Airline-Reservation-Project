@@ -1,0 +1,44 @@
+[
+    {
+        "attendantId": "FA001",
+        "name": "Emma Watson",
+        "certification": "Senior Flight Attendant",
+        "yearsOfService": 8,
+        "status": "Available"
+    },
+    {
+        "attendantId": "FA002",
+        "name": "John Cena",
+        "certification": "Flight Attendant",
+        "yearsOfService": 5,
+        "status": "Available"
+    },
+    {
+        "attendantId": "FA003",
+        "name": "Jennifer Lawrence",
+        "certification": "Senior Flight Attendant",
+        "yearsOfService": 10,
+        "status": "Available"
+    },
+    {
+        "attendantId": "FA004",
+        "name": "Chris Hemsworth",
+        "certification": "Flight Attendant",
+        "yearsOfService": 6,
+        "status": "Available"
+    },
+    {
+        "attendantId": "FA005",
+        "name": "Scarlett Johansson",
+        "certification": "Lead Flight Attendant",
+        "yearsOfService": 12,
+        "status": "Available"
+    },
+    {
+        "attendantId": "FA006",
+        "name": "Robert Downey",
+        "certification": "Flight Attendant",
+        "yearsOfService": 4,
+        "status": "Available"
+    }
+]
