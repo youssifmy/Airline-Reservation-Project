@@ -1,0 +1,104 @@
+[
+    {
+        "bookingDate": "2025-12-20",
+        "flightNumber": "AA101",
+        "isPaid": true,
+        "passengerId": 3,
+        "paymentStatus": "Refunded",
+        "reservationId": 1001,
+        "seatNumber": "12A",
+        "status": "Cancelled",
+        "totalPrice": 599.99
+    },
+    {
+        "bookingDate": "2025-12-22",
+        "flightNumber": "BA202",
+        "isPaid": true,
+        "passengerId": 4,
+        "paymentStatus": "Refunded",
+        "reservationId": 1002,
+        "seatNumber": "8C",
+        "status": "Cancelled",
+        "totalPrice": 899.5
+    },
+    {
+        "bookingDate": "2025-12-25",
+        "flightNumber": "DL404",
+        "isPaid": false,
+        "passengerId": 3,
+        "paymentStatus": null,
+        "reservationId": 1003,
+        "seatNumber": "15B",
+        "status": "Pending",
+        "totalPrice": 750.0
+    },
+    {
+        "bookingDate": "2025-12-30",
+        "flightNumber": "DL404",
+        "isPaid": true,
+        "passengerId": 3,
+        "paymentStatus": null,
+        "reservationId": 1004,
+        "seatNumber": "12",
+        "status": "Confirmed",
+        "totalPrice": 541.0
+    },
+    {
+        "bookingDate": "2025-12-30",
+        "flightNumber": "BA202",
+        "isPaid": true,
+        "passengerId": 3,
+        "paymentStatus": "Refunded",
+        "reservationId": 1005,
+        "seatNumber": "1",
+        "status": "Cancelled",
+        "totalPrice": 541.0
+    },
+    {
+        "bookingDate": "2025-12-30",
+        "flightNumber": "DL404",
+        "loyaltyPointsEarned": 96,
+        "passengerId": 3,
+        "paymentStatus": "Refunded",
+        "reservationId": 1006,
+        "seatNumber": "12A",
+        "status": "Cancelled",
+        "totalPrice": 967
+    },
+    {
+        "bookingDate": "2025-12-31",
+        "flightNumber": "BB202",
+        "loyaltyPointsEarned": 96,
+        "passengerId": 6,
+        "paymentStatus": "Refunded",
+        "reservationId": 1007,
+        "seatNumber": "15",
+        "status": "Cancelled",
+        "totalPrice": 967
+    },
+    {
+        "agentId": 2,
+        "bookedBy": "agent1",
+        "bookingDate": "2025-12-31",
+        "checkedInBy": "agent1",
+        "flightNumber": "DL404",
+        "loyaltyPointsEarned": 50,
+        "passengerId": 6,
+        "paymentStatus": "Paid",
+        "reservationId": 1008,
+        "seatNumber": "13B",
+        "status": "Checked-In",
+        "totalPrice": 500
+    },
+    {
+        "bookingDate": "2025-12-31",
+        "flightNumber": "BB202",
+        "loyaltyPointsEarned": 96,
+        "passengerId": 6,
+        "paymentStatus": "Paid",
+        "reservationId": 1009,
+        "seatNumber": "12B",
+        "status": "Checked-In",
+        "totalPrice": 967
+    }
+]

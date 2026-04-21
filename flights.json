@@ -1,0 +1,58 @@
+[
+    {
+        "aircraftId": "AC001",
+        "arrivalTime": "2025-12-31 02:30",
+        "availableSeats": 46,
+        "departureTime": "2025-12-30 14:00",
+        "destination": "London",
+        "flightNumber": "AA101",
+        "origin": "New York",
+        "status": "Scheduled",
+        "totalSeats": 180
+    },
+    {
+        "aircraftId": "AC002",
+        "arrivalTime": "2026-01-01 14:00",
+        "availableSeats": 88,
+        "departureTime": "2025-12-31 09:00",
+        "destination": "Tokyo",
+        "flightNumber": "BA202",
+        "origin": "Los Angeles",
+        "status": "Scheduled",
+        "totalSeats": 220
+    },
+    {
+        "aircraftId": "AC003",
+        "arrivalTime": "2025-12-31 08:45",
+        "availableSeats": 0,
+        "departureTime": "2025-12-30 18:30",
+        "destination": "Paris",
+        "flightNumber": "UA303",
+        "origin": "Chicago",
+        "status": "Fully Booked",
+        "totalSeats": 150
+    },
+    {
+        "aircraftId": "AC001",
+        "arrivalTime": "2026-01-01 17:30",
+        "assignedPilotId": "PL001",
+        "availableSeats": 118,
+        "departureTime": "2025-12-31 22:00",
+        "destination": "Dubai",
+        "flightNumber": "DL404",
+        "origin": "Miami",
+        "status": "Scheduled",
+        "totalSeats": 180
+    },
+    {
+        "aircraftId": "AC002",
+        "arrivalTime": "2026-01-01 12:00",
+        "availableSeats": 149,
+        "departureTime": "2025-12-31 06:00",
+        "destination": "Japan",
+        "flightNumber": "BB202",
+        "origin": "Egypt",
+        "status": "Scheduled",
+        "totalSeats": 300
+    }
+]
